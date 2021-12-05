@@ -5,12 +5,12 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [a Technical Recruiter][website]
+### I'm [a Technical Sourcer Recruiter][website]
 
 - 👨‍💻 Currently hiring Senior Developers, Engineers, Tech Leads and ML/Data Researchers for EU & USA companies.
 - 📚 Learning everything I can about tech 😉
 - 💪🏼 Goals: Create
-- ⚡ Fun fact: I curate art
+- ⚡ Fun fact: I curate Auteurs' Films
 
 ---
 
