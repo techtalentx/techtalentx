@@ -7,7 +7,7 @@
 
 ### I'm [a Technical Sourcer Recruiter for Level 5 - Woven Planet Holdings][website]
 
-- 👨‍💻 Currently hiring Senior Developers, Engineers, Tech Leads and ML/Data Researchers for EU & USA companies.
+- 👨‍💻 Currently hiring Senior Developers, Engineers, Tech Leads and ML/Data Researchers.
 - 📚 Learning everything I can about tech 😉
 - 💪🏼 Goals: Create
 - ⚡ Fun fact: I curate Auteurs' Films
