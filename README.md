@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [a Technical Sourcer Recruiter[website] for Level 5 - Woven Planet Holdings][jobs]
+### I'm [a Technical Sourcer Recruiter for Level 5 - Woven Planet Holdings][website]
 
 - 👨‍💻 Currently hiring Senior Developers, Engineers, Tech Leads and ML/Data Researchers.
 - 📚 Learning everything I can about tech 😉
