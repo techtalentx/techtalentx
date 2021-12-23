@@ -7,10 +7,10 @@
 
 ### I'm [a Technical Sourcer Recruiter for Level 5 - Woven Planet Holdings][website]
 
-- 👨‍💻 Currently [hiring Senior Developers, Engineers, Tech Leads and ML/Data Researchers][jobs]
+- 👨‍💻 Currently [hiring Senior Engineers; Visualization, Integration, Infrastructure, Autonomy and Principal ML/Data Researchers][jobs]
 - 📚 Learning everything I can about tech 😉
-- 💪🏼 Goals: Create
-- ⚡ Fun fact: I curate Auteurs' Films
+- 💪🏼 Goals: Create & connect
+- ⚡ Fun fact: I've been organizing and tagging genealogical data since childhood, also, I curate Auteurs' Films 📽 
 
 ---
 
