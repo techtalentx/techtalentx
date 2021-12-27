@@ -10,7 +10,7 @@
 - 👨‍💻 Currently [hiring ML/Deep Learning Engineers][jobs]
 - 📚 Learning everything I can about tech 😉
 - 💪🏼 Goals: Create & connect
-- ⚡ Fun fact: I've been organizing and tagging genealogical data since childhood, also, I curate Auteurs' Films 📽 
+- ⚡ Fun fact: Organized and tagged genealogical data since childhood, also, I curate Auteurs' Films📽 
 
 ---
 
