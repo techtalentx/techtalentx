@@ -24,7 +24,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Connect me 📝
+### Contact me 📝
 
 [<img align="left" alt="www.techiee.com" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" />][website]
 [<img align="left" alt="techieesf | LinkedIn" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
