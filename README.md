@@ -67,7 +67,7 @@
 
 
 [website]: https://techiee.com
-[jobs]: https://grnh.se/c41bee534us
+[jobs]: https://grnh.se/4e8b24df4us
 [linkedin]: https://www.linkedin.com/in/techieesf/
 [Spotify]: https://open.spotify.com/user/21omiefbshej3wa2tk6srbksq
 
