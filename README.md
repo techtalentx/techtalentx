@@ -5,15 +5,26 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### [I'm hiring for Level 5 - Woven Planet Autonomy Team #AutonomousDriving #AV #Autonomy #Self-Driving][jobs]
+### [I'm hiring Engineers for Level 5 - Autonomy Team][website]
 
-- 👨‍💻 Currently [hiring ML/Deep Learning Engineers][jobs]
+- 👨‍💻 Currently [hiring SWE, Data Scientists, ML & Deep Learning Engineers][website]
 - 📚 Learning everything I can about tech 😉
 - 💪🏼 Goals: Create & connect
-- ⚡ Fun fact: Organized and tagged genealogical data since childhood, also, I curate Auteurs' Films📽 
+- 🚀 Also: I [help engineers get a fulfilling remote career by matching them with a great company or startup][website]
 
 ---
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact me here 📝
+
+[<img align="left" alt="techiee.com" height="30px" src="https://img.icons8.com/ios-glyphs/344/google-calendar.png" />][callme]
+[<img align="left" alt="techieesf | LinkedIn" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="techieesf | Spotify" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/spotify.png" />][Spotify]
+
+<br />
+
+---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
@@ -22,19 +33,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact me 📝
-
-[<img align="left" alt="www.techiee.com" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" />][website]
-[<img align="left" alt="techieesf | LinkedIn" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="techieesf | Spotify" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/spotify.png" />][Spotify]
-
-<br />
-
----
-
-### Languages and Tools 🛠 
+### 🛠 Languages, Frameworks and Tools I Hire (By no means an exhaustive list. Contact me👆🏾)  
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -66,9 +65,10 @@
 
 
 
-[website]: https://techiee.com
+[website]: http://rb.gy/1chul1
 [jobs]: https://grnh.se/4e8b24df4us
 [linkedin]: https://www.linkedin.com/in/techieesf/
+[callme]: https://calendly.com/techieesf/call
 [Spotify]: https://open.spotify.com/user/21omiefbshej3wa2tk6srbksq
 
 
