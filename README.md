@@ -5,9 +5,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### [I'm hiring Engineers for Level 5 - Autonomy Team][jobs]
+### [I'm hiring Engineers for Level 5 - Autonomy Division][jobs]
 
-- 👨‍💻 Currently [hiring SWE, Data Scientists, ML & Deep Learning Engineers][website]
+- 👨‍💻 Currently [hiring SWE, HWE, Data Scientists, ML & Deep Learning Researchers and more][website]
 - 📚 Learning everything I can about tech 😉
 - 💪🏼 Goals: Create & connect
 - 🚀 I [help engineers get a fulfilling remote career by matching them with a great company or startup in NA & EU.][website]
@@ -65,7 +65,7 @@
 
 
 
-[website]: http://rb.gy/1chul1
+[website]: https://airtable.com/shreRKkCtPc8tHAGL/tblDl9UMXWoHFfhAU
 [jobs]: https://grnh.se/4e8b24df4us
 [linkedin]: https://www.linkedin.com/in/techieesf/
 [callme]: https://calendly.com/techieesf/call
