@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### [I'm hiring Engineers for Level 5 - Autonomy Division][jobs]
+### [I'm hiring Engineers for Level 5][jobs]
 
 - 👨‍💻 Currently [hiring SWE, HWE, Data Scientists, ML & Deep Learning Researchers and more][website]
 - 📚 Learning everything I can about tech 😉
