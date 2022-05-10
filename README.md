@@ -67,8 +67,8 @@
 
 [website]: https://airtable.com/shreRKkCtPc8tHAGL/tblDl9UMXWoHFfhAU
 [jobs]: https://grnh.se/4e8b24df4us
-[linkedin]: https://www.linkedin.com/in/techieesf/
-[callme]: https://calendly.com/techieesf/call
+[linkedin]: https://www.linkedin.com/in/techtalentx/
+[callme]: https://calendly.com/techtalentx/call
 [Spotify]: https://open.spotify.com/user/21omiefbshej3wa2tk6srbksq
 
 
