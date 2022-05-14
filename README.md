@@ -8,9 +8,9 @@
 ### [I'm hiring Software Engineers][jobs]
 
 - 👨‍💻 Currently [hiring SWE, HWE, Data Scientists, ML & Deep Learning Researchers and more][website]
-- 📚 Learning everything I can about tech 😉
-- 💪🏼 Goals: Create & connect
-- 🚀 I [help engineers get a fulfilling remote career by matching them with a great company or startup in NA & EU.][website]
+- 📚 Curating careers for creative problem solvers AKA engineers 😉
+- 💪🏼 Goals: Keep connecting
+- 🚀 I [help engineers get a fulfilling remote career by matching them with a mission-driven company][website]
 
 ---
 
