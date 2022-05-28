@@ -18,9 +18,9 @@
 
 ### Contact me here 📝
 
-[<img align="left" alt="techiee.com" height="30px" src="https://img.icons8.com/ios-glyphs/344/google-calendar.png" />][callme]
-[<img align="left" alt="techieesf | LinkedIn" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="techieesf | Spotify" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/spotify.png" />][Spotify]
+[<img align="left" alt="techtalent.x | Schedule a Call" height="30px" src="https://img.icons8.com/ios-glyphs/344/google-calendar.png" />][callme]
+[<img align="left" alt="techtalent.x | LinkedIn" height="30px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="techtalent.x | Website" height="30px" src="https://img.icons8.com/material-outlined/344/globe--v2.png" />][website]
 
 <br />
 
@@ -65,11 +65,10 @@
 
 
 
-[website]: https://airtable.com/shrwAQOAiwK73Ibkv
+[website]: https://bio.link/techtalent
 [jobs]: https://airtable.com/shrwAQOAiwK73Ibkv
 [linkedin]: https://www.linkedin.com/in/techtalentx/
 [callme]: https://calendly.com/patriciareiner/call
-[Spotify]: https://open.spotify.com/user/21omiefbshej3wa2tk6srbksq
 
 
 
