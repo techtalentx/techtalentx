@@ -65,8 +65,8 @@
 
 
 
-[website]: https://airtable.com/shreRKkCtPc8tHAGL/tblDl9UMXWoHFfhAU
-[jobs]: https://airtable.com/shreRKkCtPc8tHAGL/tblDl9UMXWoHFfhAU
+[website]: https://airtable.com/shrwAQOAiwK73Ibkv
+[jobs]: https://airtable.com/shrwAQOAiwK73Ibkv
 [linkedin]: https://www.linkedin.com/in/techtalentx/
 [callme]: https://calendly.com/patriciareiner/call
 [Spotify]: https://open.spotify.com/user/21omiefbshej3wa2tk6srbksq
