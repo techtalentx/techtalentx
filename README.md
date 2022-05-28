@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently [hiring SWE, HWE, Data Scientists, ML & Deep Learning Researchers and more][website]
 - 📚 Curating careers for creative problem solvers AKA engineers 😉
-- 💪🏼 Goals: Keep connecting
+- 💪🏼 Goals: Keep Connecting Engineers with Rewarding Careers
 - 🚀 I [help engineers get a fulfilling remote career by matching them with a mission-driven company][website]
 
 ---
