@@ -67,7 +67,7 @@
 
 [website]: https://bio.link/techtalent
 [jobs]: https://airtable.com/shrwAQOAiwK73Ibkv
-[linkedin]: www.linkedin.com/in/ms-reiner-5310a970
+[linkedin]: https://www.linkedin.com/in/ms-reiner-5310a970
 [callme]: https://calendly.com/patriciareiner/call
 
 
